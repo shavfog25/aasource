@@ -1,0 +1,44 @@
+
+body {
+    background-color: #fffff0;
+}
+
+#banner {
+    height: 20vh;
+    font-family: 'Cherry Cream Soda', cursive;
+    color: #ff0000;
+}
+
+h1 {
+    padding: 15px 0px 15px 65px;
+}
+
+#nav-bar {
+    width: 17.5vw;
+    text-align: center;
+    
+    position: fixed;
+    font-family: 'Cherry Cream Soda', cursive;
+}
+
+#nav-bar li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.col-md-9 {
+    float: right;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+h4 {
+    margin-top: 5%;
+}
+
+p {
+    line-height: ;
+}
+
+#footer {
+    height: 75px;
+}
